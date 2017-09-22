@@ -1,0 +1,23 @@
+---
+title: "Using point occurrences for taxon-specific bioregionalization"
+author: "Alex Zizka"
+date: "16 September 2017"
+output: html_document
+---
+
+## Background
+Bioregions are an important tool for biogeography, evolutionary biology and ecology. There are a set of tools for identifying bioregions, but especially in biogeography, regions are mostly either based on very broad taxonomy ("all plants") or, if taxon-specific on expert knowledge. Taxon-specific bioregions are of high interest, as barriers might be of different strength for different groups based on their dispersal capacity Infomap bioregions is a user-friendly tool delineate bioregions based on species distributions using networks and information theory. The concept behind the methods is described [here](https://www.nature.com/articles/ncomms7848) and the software tool itself is described [here](https://academic.oup.com/sysbio/article/66/2/197/2670349/Infomap-Bioregions-Interactive-Mapping-of).
+
+
+## Outcomes
+After this exercise you will be able to:
+1. Use Infomap Bioregions to delineate taxon-specific biogeographic regions based on distribution data using
+  a. Point occurrences in txt format
+  b. Species ranges in shape format
+
+## Exercise
+This is a purely graphical user interface base exercise using the Infomap bioregions too available at http://bioregions.mapequation.org/. Here we are going to use the Bombacoideae example data, but you are welcome to use your own data obtain during the last exercises. There is a tutorial for the use of the software and explaining its functionality available on this webpage.
+
+1. Locate the Bombacoideae_points.csv and Bombacoideae_ranges.shp example files and navigate your browser to http://bioregions.mapequation.org/.
+2. Use infomap bioregions to create bioregions for the Bombacoideae based on occurrence points following the tutorial on the website
+3. Use infomap bioregions to create bioregions for the Bombacoideae based on a shape file following the tutorial on the website. What is the difference between the two bioregionalizations, and which one is more useful?
