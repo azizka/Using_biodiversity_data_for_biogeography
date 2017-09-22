@@ -1,8 +1,8 @@
 # Workshop: Using spatial biodiveristy data for biogeography
 
-# _Date:_
-# 
-# _Location:_
+<-- _Date:_ -->
+
+<-- _Location:_ -->
 
 _presented by Alexandre Antonelli & Alexander Zizka from the_  [Antonelli lab](https://twitter.com/antonelli_lab), _University of Gothenburg and Gothenburg Global Biodiversity Centre_
 
